@@ -1,0 +1,6 @@
+c:\users\mr.robot\documents\visual studio 2015\Projects\input\input\bin\Debug\input.exe.config
+c:\users\mr.robot\documents\visual studio 2015\Projects\input\input\bin\Debug\input.exe
+c:\users\mr.robot\documents\visual studio 2015\Projects\input\input\bin\Debug\input.pdb
+c:\users\mr.robot\documents\visual studio 2015\Projects\input\input\obj\Debug\input.csprojResolveAssemblyReference.cache
+c:\users\mr.robot\documents\visual studio 2015\Projects\input\input\obj\Debug\input.exe
+c:\users\mr.robot\documents\visual studio 2015\Projects\input\input\obj\Debug\input.pdb

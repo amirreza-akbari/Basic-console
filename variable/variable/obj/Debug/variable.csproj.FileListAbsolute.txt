@@ -1,0 +1,6 @@
+c:\users\mr.robot\documents\visual studio 2015\Projects\variable\variable\bin\Debug\variable.exe.config
+c:\users\mr.robot\documents\visual studio 2015\Projects\variable\variable\bin\Debug\variable.exe
+c:\users\mr.robot\documents\visual studio 2015\Projects\variable\variable\bin\Debug\variable.pdb
+c:\users\mr.robot\documents\visual studio 2015\Projects\variable\variable\obj\Debug\variable.csprojResolveAssemblyReference.cache
+c:\users\mr.robot\documents\visual studio 2015\Projects\variable\variable\obj\Debug\variable.exe
+c:\users\mr.robot\documents\visual studio 2015\Projects\variable\variable\obj\Debug\variable.pdb

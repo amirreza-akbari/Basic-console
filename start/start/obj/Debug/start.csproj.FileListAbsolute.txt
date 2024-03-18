@@ -1,0 +1,6 @@
+c:\users\mr.robot\documents\visual studio 2015\Projects\start\start\bin\Debug\start.exe.config
+c:\users\mr.robot\documents\visual studio 2015\Projects\start\start\bin\Debug\start.exe
+c:\users\mr.robot\documents\visual studio 2015\Projects\start\start\bin\Debug\start.pdb
+c:\users\mr.robot\documents\visual studio 2015\Projects\start\start\obj\Debug\start.csprojResolveAssemblyReference.cache
+c:\users\mr.robot\documents\visual studio 2015\Projects\start\start\obj\Debug\start.exe
+c:\users\mr.robot\documents\visual studio 2015\Projects\start\start\obj\Debug\start.pdb

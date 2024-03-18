@@ -1,0 +1,6 @@
+c:\users\mr.robot\documents\visual studio 2015\Projects\color\color\bin\Debug\color.exe.config
+c:\users\mr.robot\documents\visual studio 2015\Projects\color\color\bin\Debug\color.exe
+c:\users\mr.robot\documents\visual studio 2015\Projects\color\color\bin\Debug\color.pdb
+c:\users\mr.robot\documents\visual studio 2015\Projects\color\color\obj\Debug\color.csprojResolveAssemblyReference.cache
+c:\users\mr.robot\documents\visual studio 2015\Projects\color\color\obj\Debug\color.exe
+c:\users\mr.robot\documents\visual studio 2015\Projects\color\color\obj\Debug\color.pdb
